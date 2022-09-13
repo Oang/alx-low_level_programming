@@ -10,14 +10,6 @@
 int main(void)
 {
 	_putchar('w');
-	_putchar('e');
-	_putchar('l');
-	_putchar('l');
-	_putchar('c');
-	_putchar('o');
-	_putchar('o');
-	_putchar('m');
-	_putchar('e');
 	_putchar('\n');
 
 	return (0);
